@@ -2,3 +2,8 @@
     background-color: rgb(255, 167, 167);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#two {
+    color: rgb(00, 00, 255);
+    font-size: 36px;
+}
